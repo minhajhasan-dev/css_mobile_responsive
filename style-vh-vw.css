@@ -16,10 +16,6 @@ div {
     font-size: 3.6rem;
 }
 
-div h2 {
-    /* background: lightgray;
-    width: 100vw; */
-}
 
 @media (min-width:500px) and (max-width:1024px) {
     body {
